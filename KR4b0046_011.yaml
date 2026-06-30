@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0046/chant/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附録扶風歌扶風歌昨辭金華殿今次雁門縣寢臥握秦戈棲息抱越箭忍悲別親知行泣隨征傳寒煙空徘徊朝日乍舒卷詠老詠老軟顏收紅蕊玄鬢生素華冉冉逝將老咄咄奈老何春詠春詠節運同可悲莫若春光甚和風未及燠遺涼清且凜贈顧墨曹贈顧墨曹昏明易遠離會難揆雲轍泉分西艫東軌擬古詩擬古詩中坐溢朱組步欄簉瓊辨禮登佇眷情樂闋延皇眄詩詩豎儒守一經未足識行藏
+  hash: sha256:ed37bd5c0762643542994e4037cc5f6a726e67784f438e4aa5e75ec812015e86
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0046_CHANT_011-1a.1-h}
+metadata:
+  title: 鮑參軍集十一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0046.xml
+hash: sha256:706c7dd23d1ffe66ae5fce484c83dbe800d0a2cc7c422fad69e9243db41995a5
